@@ -11,6 +11,8 @@ x86-64 based system 8 CPU cores
 - Git
 - Podman
 
+apt install curl
+
 ## Repo
 
 - ic replica
